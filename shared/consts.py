@@ -1,0 +1,2 @@
+class ConstContainerClass:
+    consts = dict()

@@ -1,0 +1,2 @@
+class EntityContainerClass:
+    entities = dict()
